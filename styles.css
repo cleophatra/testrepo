@@ -1,0 +1,33 @@
+h1 {
+    background-image: url("/Users/jtaylor/Codecademy/DasmotoProj/resources/images/image 1.webp");
+    color: khaki;
+    font-size: 100px;
+    text-align: center;
+    }
+
+h1, h2, h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
+
+.price {
+    color: blue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
